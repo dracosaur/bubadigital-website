@@ -13,10 +13,20 @@ export default {
 
     img {
       width: 1191.183px;
-      position: absolute;
       right: 0;
       z-index: 0;
     }
+  `,
+  Blur: styled.div`
+    position: absolute;
+    right: 0;
+    margin-right: 10%;
+    width: 1029px;
+    height: 772.028px;
+
+    border-radius: 1029px;
+    background: linear-gradient(180deg, rgba(82, 226, 226, 0.72) 0%, #ED1423 100%);
+    filter: blur(100px);
   `,
   TextContent: styled.div`
     width: 591px;

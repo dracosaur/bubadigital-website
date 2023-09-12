@@ -10,7 +10,7 @@ export function HomeContent() {
         experiência
         digital
        </S.TextContent>
-       <img src="/buba blur 1.svg"/>
+       <S.Blur />
     </S.Container>
   )
 }

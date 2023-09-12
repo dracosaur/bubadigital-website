@@ -1,0 +1,20 @@
+{
+    "team": [
+        {
+            "id": 1,
+            "firstName": "Pietro",
+            "lastName": "Saraiva",
+            "office": "Diretor de Tecnologia",
+            "lowoffice": "CTO",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "firstName": "Franco",
+            "lastName": "Stapasolla",
+            "office": "Diretor de Arte",
+            "lowoffice": "CTO",
+            "image": ""
+        }
+    ]
+}
