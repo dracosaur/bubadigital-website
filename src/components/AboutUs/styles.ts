@@ -33,6 +33,7 @@ export default {
     font-style: normal;
     font-weight: 275;
     line-height: 58px;
+    text-align: justify;
   `,
   Content: styled.div`
     width: 100%;
@@ -50,6 +51,7 @@ export default {
     font-style: normal;
     font-weight: 275;
     line-height: 30px;
+    text-align: justify;
   `,
   Image: styled.div`
     background: #D9D9D9;

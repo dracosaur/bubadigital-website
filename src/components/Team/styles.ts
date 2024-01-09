@@ -14,24 +14,26 @@ export default {
     gap: 74px;
   `,
   Header: styled.div`
+    width: 100%;
     display: flex;
-    justify-content: space-between;
     align-items: flex-start;
     gap: 8%;
 
     @media only screen and (min-width: 1367px) {
-      gap: 30%;
-      margin-right: 157px;
+      gap: 25%;
     }
   `,
   Text: styled.p`
+    max-width: 800px;
     text-indent: 150px;
     color: #F2F2F2;
+
+    text-align: justify;
     font-family: var(--font-poppins);
-    font-size: 40px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 275;
-    line-height: 58px;
+    line-height: 30px;
   `,
   Content: styled.div`
     width: 100%;
@@ -48,6 +50,7 @@ export default {
     font-style: normal;
     font-weight: 275;
     line-height: 30px;
+    text-align: justify;
   `,
   Image: styled.div`
     background: #D9D9D9;
