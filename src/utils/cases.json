@@ -1,0 +1,28 @@
+{
+    "cases": [
+        {
+            "id": 1,
+            "projectName": "Buba Digital",
+            "website": "",
+            "width": "800px",
+            "smallWidth": "500px",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "projectName": "Finance.it",
+            "website": "",
+            "smallWidth": "300px",
+            "width": "581px",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "projectName": "Eduarda Fono",
+            "website": "",
+            "width": "581px",
+            "smallWidth": "300px",
+            "image": ""
+        }
+    ]
+}
